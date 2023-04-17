@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekgupta96&show_icons=true&locale=en" alt="vivekgupta96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekgupta96&" alt="vivekgupta96" /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivekgupta96)](https://github.com/anuraghazra/github-readme-stats)
+
