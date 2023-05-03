@@ -5,8 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekgupta96&label=Profile%20views&color=0e75b6&style=flat" alt="vivekgupta96" /> </p>
 
-- 💬 Ask me about **Java | Hibernate| MySQL | SpringBoot HTML5 | CSS | JavaScript | Data Structure & Algorithms | Excel**
+- 📫 I am currently Learning java Technology Spring Boot
+- 💬 Ask me about **Java | Hibernate| MySQL | SpringBoot | HTML5 | CSS | JavaScript | Data Structure & Algorithms | Excel**
 
+- 👨‍💻 Checkout my Portfolio [Vivek_Portfolio](https://Vivekgupta96.github.io/#)
+
+- 📫 How to reach me **Guptavivek0691@gmail.com**
+- 📄 Know about my experiences [Vivek-Gupta-Resume](https://github.com/Vivekgupta96/Vivekgupta96.github.io/blob/main/document/Vivek-Gupta-Resume.pdf)
 - 📫 How to reach me **Guptavivek0691@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
