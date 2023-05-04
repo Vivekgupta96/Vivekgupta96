@@ -10,7 +10,6 @@
 
 - 👨‍💻 Checkout my Portfolio [Vivekgupta96.github.io](https://Vivekgupta96.github.io/#)
 
-- 📫 How to reach me **Guptavivek0691@gmail.com**
 - 📄 Know about my experiences [Vivek-Gupta-Resume](https://github.com/Vivekgupta96/Vivekgupta96.github.io/blob/main/document/Vivek-Gupta-Resume.pdf)
 - 📫 How to reach me **Guptavivek0691@gmail.com**
 
