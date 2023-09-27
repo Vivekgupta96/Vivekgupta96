@@ -1,6 +1,8 @@
-![Master](https://github.com/Vivekgupta96/Vivekgupta96/blob/main/poster.png)
+
+![poster](https://github.com/Vivekgupta96/Vivekgupta96/assets/119284680/2d8a9536-2086-4b4d-a187-9eb28269c947)
 <h1 align="center">Hi 👋, I'm Vivek Gupta</h1>
-<h3 align="center">A passionate Developer who realy Love Coding</h3>
+<h3 align="center">A passionate Developer who real![Uploading poster.png…]()
+y Love Coding</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekgupta96&label=Profile%20views&color=0e75b6&style=flat" alt="vivekgupta96" /> </p>
