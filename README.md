@@ -11,7 +11,7 @@
 
 - 👨‍💻 My Portfolio [Vivekgupta96.github.io](https://Vivekgupta96.github.io/#)
 
-- 📄 Know about my experiences [Vivek-Gupta-Resume](https://github.com/Vivekgupta96/Vivekgupta96.github.io/blob/main/document/Vivek-Gupta-Resume.pdf)
+
 - 📫 How to reach me **Vivekg0691@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
