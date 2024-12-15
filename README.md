@@ -6,11 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekgupta96&label=Profile%20views&color=0e75b6&style=flat" alt="vivekgupta96" /> </p>
 
-- 📫 I am Softwere Engineer at Java  Backend
+- 📫👩‍💻 Software Developer | Java | Spring Boot | Full Stack
+  
+     - Hi there! 👋 I'm a passionate Software Developer with expertise in:
+     - Backend Development: Java, Spring Boot, Hibernate, Microservices, MySQL
+     - Frontend Development: JavaScript, React
+     - Cloud & DevOps: AWS
+       
+🚀 I'm driven by building scalable, efficient, and user-friendly solutions. Always excited to collaborate and contribute to open-source projects!
+
+📬 Let's connect: Feel free to reach out or explore my repositories
 - 💬 Ask me about **Java | Hibernate| MySQL | SpringBoot | HTML5 | CSS | JavaScript | Data Structure & Algorithms | Excel**
-
-- 👨‍💻 My Portfolio [Vivekgupta96.github.io](https://Vivekgupta96.github.io/#)
-
 
 - 📫 How to reach me **Vivekg0691@gmail.com**
 
